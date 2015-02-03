@@ -1,9 +1,9 @@
 {
-  "name": "my-addon",
-  "title": "my-addon",
+  "name": "activity-monitoring",
+  "title": "Activity Monitoring",
   "id": "jid1-XphHQndayBDlAg",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Activity Monitoring reads user's actions on browser",
+  "author": "Akhilesh Sanem",
   "license": "MPL 2.0",
   "version": "0.1"
 }
