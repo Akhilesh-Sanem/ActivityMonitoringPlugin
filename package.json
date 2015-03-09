@@ -1,9 +1,11 @@
 {
-  "name": "activity-monitoring",
-  "title": "Activity Monitoring",
+  
+  "name": "emailautolog",
+  "title": "Email Auto Log",
   "id": "jid1-XphHQndayBDlAg",
-  "description": "Activity Monitoring reads user's actions on browser",
+  "description": "Email Auto Log reads user's actions on Gmail WebClient",
   "author": "Akhilesh Sanem",
   "license": "MPL 2.0",
   "version": "0.1"
+  
 }
